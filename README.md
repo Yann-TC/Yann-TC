@@ -18,8 +18,6 @@ As a student at **EPITECH Mulhouse**, I continuously strive to expand my knowled
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-TC&layout=compact&theme=radical)
-
 ### Tools and Platforms
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
@@ -31,9 +29,6 @@ As a student at **EPITECH Mulhouse**, I continuously strive to expand my knowled
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## 🚀 Projects
-[![Starred Projects](https://img.shields.io/badge/Starred_Projects-⭐-blue)](https://github.com/NeuralProg?tab=stars)
 
 ## 📫 Connect with Me
 
