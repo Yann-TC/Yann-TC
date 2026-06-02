@@ -30,6 +30,12 @@ As a student at **EPITECH Mulhouse**, I continuously strive to expand my knowled
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+## 📁 Favorite project
+
+### 🦁 Animap
+[Repository](https://github.com/NeuralProg/your-repo)
+[Linkedin]([https://github.com/NeuralProg/your-repo](https://www.linkedin.com/posts/yann-toison-chabane_aujourdhui-vient-de-se-terminer-une-semaine-activity-7417963466323349506-iOIy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFM8CXUBt5lKWZs7tUN1ZKfdEv8zY_zdBsU))
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-toison-chabane)
