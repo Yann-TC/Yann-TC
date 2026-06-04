@@ -1,6 +1,6 @@
 # Hello World, I'm Yann Toison-Chabane 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=NeuralProg&style=flat-square)
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://yanntc.dev/)
 
 ## 🏆 About Me
 
